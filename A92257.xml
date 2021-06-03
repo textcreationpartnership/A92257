@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Reasons humbly offered to consideration, why the incorporating the whole trade of the woollen manufactures of this kingdom to the company called the Merchant-Adventurers of England, is and will prove more and more detrimental as to the country in general, so especially to the county of Devon and city of Exon. And also how a frank and free trade to all English merchants, will be far more advantagious to the whole land.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92257</idno><idno type="EEBO-CITATION">45578415</idno>
+  <idno type="VID">172337</idno>
+  <idno type="EEBO-PROQUEST">2248533376</idno>
+  
+            <idno type="STC">Wing R548B</idno>
+            <idno type="STC">ESTC R182468</idno>
+            <idno type="OCLC">45578415</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Reasons humbly offered to consideration, why the incorporating the whole trade of the woollen manufactures of this kingdom to the company called the Merchant-Adventurers of England, is and will prove more and more detrimental as to the country in general, so especially to the county of Devon and city of Exon. And also how a frank and free trade to all English merchants, will be far more advantagious to the whole land.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Company of Merchant Adventurers of England.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Devon --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  England --  Devon --  Early works to 1800.</term>
+               <term type="topical_term">Monopolies --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Exeter (England) --  Commerce.</term>
+               <term type="geographic_name">Devon (England) --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172337:1"/>
+            <head>The Reasons Humbly offered to Consideration, <hi>Why the Incorporating the whole Trade of the</hi> WOOLLEN <hi>Manufactures of this Kingdom to the Company called</hi> The Merchant-Adventurers of ENGLAND, <hi>is and will prove more and more detrimental as to the Country in general, so especi<g ref="char:EOLhyphen"/>ally to the County of</hi> Devon, <hi>and City of</hi> Exon. <hi>And also how a Frank and Free Trade to all</hi> ENGLISH <hi>Merchants, will be far more advan<g ref="char:EOLhyphen"/>tagious to the whole Land.</hi>
+            </head>
+            <p n="1">I. BEcause a Company of men Incorporated, may com<g ref="char:EOLhyphen"/>bine at pleasure to make the Clothier take what Prices they please: For though they may be many Members, yet evident it is to reason, that many Incorporated become as one man, and may by their joint Orders amongst themselves (in which by their Oath they are bound to keep secrecie) become as one Buyer.</p>
+            <p n="2">II. Because, as very many Manufactures are made at a very great distance from <hi>London,</hi> the Residence of this Company, (who ship most of the Woollen Commodities made on this side <hi>Trent,</hi> from that Port;) So it is most convenient to the Clothier to sell his goods as near home as he can, and most advantagious to the Merchant to export them from the nearest Port. For it is evident to reason, That those that ship the <hi>Devonshire</hi>-Drapery from <hi>Exon</hi> or any other Port thereabout, may afford the Commodity con<g ref="char:EOLhyphen"/>siderably cheaper than he that ships the same from <hi>London;</hi> more<g ref="char:EOLhyphen"/>over it affords some Trade to our City of <hi>Exon,</hi> to the relief of our Poor, and encouragement of our Navigation.</p>
+            <pb n="2" facs="tcp:172337:2"/>
+            <p n="3">III. It is repugnant to the very Law of Nature, to give the chief and general Commodity of a Country to a few; in which every free born Inhabitant may claim a natural interest.</p>
+            <p n="4">IV. It is contrary to the custom of all Nations; for there is no Kingdom or Commonwealth hath the like example of managing a Trade so neer home, by a Company.</p>
+            <p n="5">V. We are informed by Learned Council, That it is repugnant to <hi>Magna Charta,</hi> Petition of Right; and it is point-blank against an express Statute of <hi>Hen.</hi> 7. <hi>an.</hi> 12. <hi>cap.</hi> 6. made against the Com<g ref="char:EOLhyphen"/>pany of Merchant-Adventurers, and is yet in force.</p>
+            <p n="6">VI. The same, if not higher Reasons may be alleadged against this Company, that were produced against the <hi>Spanish</hi> and <hi>French</hi> Companies, 3. <hi>Jacobi,</hi> which were put down as <hi>Monopolizers,</hi> a word odious all the world over.</p>
+            <p n="7">VII. Because it hath been the practice of this Company, and is naturally incident to a Company of men united; Not to endevour to put off Quantities of Commodities, but to get much b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a little. And therefore <hi>Anno</hi> 1606. <hi>Octob.</hi> 11. at their Court they made an Order to stint the general Number of Clothes to be ex<g ref="char:EOLhyphen"/>ported, and what proportion each Brother should have; And thereby keeping the Market bare, did give an advantage, yea put a necessity upon the <hi>Dutch</hi> to increase their Making: wherea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if they would have carried plenty, and afforded at a reasonable gain, so that the <hi>Dutch</hi> could not have made so cheap; they would never so monstrously have increased the number of Clothes made. This we find to be the practice of the <hi>East-India</hi> Company of <hi>Holland,</hi> who having the sole Trade of many <hi>East-India</hi> Commo<g ref="char:EOLhyphen"/>dities, do not bring the half of what they could procure, as of Spices &amp;c. that they may by scarcity advance the prices of them, as they have done: Which though it be a benefit to that Company, yet must needs, especially in Manufactures, be a great prejudice to the Natives of <hi>East-India.</hi> And the like practice, much more a detriment to this Kingdom; it being a stinting of a Commodity, by which so many thousand families have their subsistence.</p>
+            <p n="8">VIII. Because the County of <hi>Devon</hi> and City of <hi>Exon</hi> do find, that the Merchant-Adventurers do trade very little in that Coun<g ref="char:EOLhyphen"/>try's Commodities; as by an Accompt taken at the Custom-house Books of <hi>Exon,</hi> does demonstrate, That from 24 <hi>June</hi> 1661. to
+<pb n="3" facs="tcp:172337:2"/>29 <hi>September</hi> next following, the said Company entred out but 225. pieces of Woollen Manufactures, which paid Custom to His Majesty, 8 <hi>l.</hi>—3 <hi>s.</hi>—10½. But in that space of time, the Free Mer<g ref="char:EOLhyphen"/>chants entred 9254. pieces, and paid Custom, 325 <hi>l.</hi>—3 <hi>s.</hi>—5 <hi>d.</hi> Hereby may be seen what prejudice would arise to His Majesty by loss of Custom, (which even the Officers of the Port of <hi>London</hi> do experience, and can testifie to be very great, since this Com<g ref="char:EOLhyphen"/>pany's Patent,) should the Free Traders be wholly debarred from that liberty they have used.</p>
+            <p n="9">IX. It is an undeniable truth, That nothing conduceth more to the improvement of Trade, than plenty of Merchandise, and multitude of Merchants; whereof there hath been of late years most clear and actual experience. For (as Mr. <hi>Skinner</hi> declared) 22 <hi>Jacobi,</hi> Certificate was given of 25000. Clothes <hi>per annum</hi> made in <hi>Holland:</hi> And it was made apparent to the Parliament, that the cause hereof was the Restraints which were used to be made by the aforesaid Company. Whereupon these two Votes passed in full Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>Die Veneris 30 Aprilis, 22 Jacobi.</head>
+                        <p>
+                           <hi>VPon Report made this day to the Commons House of Parliament, from the Grand Committee for Trade, concerning the Imprest money set by the Company of Mer<g ref="char:EOLhyphen"/>chant-Adventurers of</hi> London <hi>upon Cloth, And after long Debate thereof in the House, It is resolved and declared by the said House of Commons, That the Opinion of the House is. That such setting of the Imprest money upon Cloth, is unlaw<g ref="char:EOLhyphen"/>ful, unjust, and a grievance to the People, and is to be taken off and no longer to be continued by them. And upon further Re<g ref="char:EOLhyphen"/>port by the said Committee, and like Debate in the said House, It is further declared, that the House thinks fit, That as well the Merchant-Adventurers, as all other Merchants promiscu<g ref="char:EOLhyphen"/>ously, may transport to all places all Northern and Western Dozens and Kersies, and New Manufactures.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="4" facs="tcp:172337:3"/>
+            <p>And as if this had not been full enough, this following Order was made the Moneth following, to strengthen it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>Die Lunae 10 Maii, 22 Jacobi.</head>
+                        <p>
+                           <hi>VPon the Report made this day to the House of Commons from the Grand Committee for Trade, concerning the freedom of Exportation of Dyed and Dressed and all Coloured Clothes into the Parts of</hi> Germany <hi>and the</hi> Low-Countries, <hi>by other Merchants besides the Merchant-Adventurers; And after a long Debate thereof in the House of Commons, It is resolved and declared by the said House of Commons, That the Opinion thereof is, That other Merchants besides the Merchant-Adventurers, may freely Trade with Dyed and Dressed, and all sorts of Coloured Cloth, into</hi> Germany <hi>and the</hi> Low-Countries.</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now very remarkable it is, That by that concession of Liberty, not only the <hi>English</hi> Traders increased to about Six hundred, but the <hi>Dutch</hi> fell off from making of Cloth; so that <hi>Anno</hi> 1632. they did not make 4000. Clothes <hi>per an.</hi> But afterwards a Proclama<g ref="char:EOLhyphen"/>tion came out about <hi>Anno</hi> 1634. restraining Trade onely to the said Company; by which means, in 1639. &amp; 1640 the 600 Traders fell to 180. and the <hi>Dutch</hi> increased to make 20000 Clothes <hi>per annum,</hi> greatly to the damage of this Kingdom: All which can be clearly proved. And therefore,</p>
+            <p n="10">X. It may be urged as a Reason, That if this Company had been good for the Kingdom in general, it is almost impossible but this Company would have been established by Law; the Conve<g ref="char:EOLhyphen"/>niences and Inconveniences thereof having been so oft debated in Parliament: But in stead thereof, a Law was made against them, above 160. years past.</p>
+            <p n="11">XI. It is humbly offered, That the limiting so great a Commo<g ref="char:EOLhyphen"/>dity to so few Men, is a mighty discouragement to the Invention and framing of New Manufactures. For, what Merchant will busie
+<pb n="5" facs="tcp:172337:3"/>his brain to invent new, except he may have the liberty to transport to what Port or place he shall think fitting.</p>
+            <p n="12">XII. The Course and Custom of this Company, which they blanch with the specious name of Regulation, is destructive to the Trade of this Kingdom, and a discouragement to any Merchant to enter into their Society.</p>
+            <p>
+               <hi>First,</hi> In regard of some extravagant Oaths which binds the Members to an implicite Obedience; (as may be seen in their Oath:) though never so prejudicial to the general good of the Kingdom; then they have a purging Oath, which they at pleasure administer, whereby the party sworn, is to accuse himself; which is repugnant to all Lawes, and abhorring to Nature; for, <hi>Nemo tene<g ref="char:EOLhyphen"/>tur accusare seipsum.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Another Inconveniency is, their seldom Shipping; sometimes but twice, and at most, but thrice in a year, as bewitcht to an old Custom; whereas the ground and reason of the ancient practice is ceased: For of old it was so, because the Manufactures were then carried to Fairs, which were called Marts, as <hi>Bristow</hi> Fair is twice a year; when the Fair was done, there was no more to do till next Fair; against which time, the Merchants provided Goods to send or carry to that Mart: But it is otherwise now, for Customers are weekly coming to them, and therefore this Order now is prejudicial to the Merchant, who by such tedious Shippings, is forced to pay double the Frait other Merchants pay; and young men are fain to venture all their Stocks at once, and many times their Credit also. But to the Clothier it's most hurtful; for he cannot sell, but when the Merchant pleaseth to buy; and most Merchants cannot buy, but when they may Ship; except upon time, which endeareth the Commodity; or else the necessitous Clothier is fain to sell, for want of monies, to the great monied Merchant, though to his great loss. Moreover, we have found by experience, that some sorts of Goods have been presently sold, and more have been desired; but cannot be obtained by this manner of Exportation, and therefore the <hi>Dutch</hi> are necessitated to fall to make it themselvs, which by daily Exportation would be prevented.</p>
+            <p>
+               <hi>Thirdly,</hi> The Impositions and Fines which they lay upon the Manufactures, are very great, being near as much as the Kings Customs; insomuch, that from <hi>Anno</hi> 1616. to 1641. they re<g ref="char:EOLhyphen"/>ceived
+<pb n="6" facs="tcp:172337:4"/>in Impositions, as it hath been extracted out of their own Leger-Books, 182295. <hi>l.</hi> odd monies, which hinders the cheap<g ref="char:EOLhyphen"/>ness of our Commodities; and cheapness is the only way to cause the <hi>Dutch</hi> desist making of Cloth; for the <hi>Dutch-man</hi> goes al<g ref="char:EOLhyphen"/>wayes to the cheapest, though from a Christian to a Jew.</p>
+            <p>
+               <hi>Fourthly,</hi> The Company strictly ties their Members to two Towns; <hi>Hamburgh</hi> and <hi>Dort:</hi> The first, but the entrance into <hi>Germany,</hi> and the confining the Trade to that place, and necessita<g ref="char:EOLhyphen"/>ting people to travel two or three hundred miles, to fetch what they needed, is, doubtless, a great cause why they also have been put upon making of Cloth. The last, <hi>viz. Dort,</hi> is the most inconsi<g ref="char:EOLhyphen"/>derablest and inconvenient place imaginable for that Trade. 1. Be<g ref="char:EOLhyphen"/>cause it is but the entrance into the Countrey, and Goods may be carried much further for the same Frait. 2. It is discomodious for all people to come unto; and for the Companies Trade the most incon<g ref="char:EOLhyphen"/>venient place, as they confess, of all the Countrey. 3. They want there the greatest accommodations of a Merchant; <hi>viz.</hi> Com<g ref="char:EOLhyphen"/>modities for Returns, and Bills for Exchange; they are forced to use Correspondents at <hi>Rotterdam</hi> and <hi>Amsterdam</hi> to do both; which must cost monies, and puts them to greater hazards than they need run. — The confining to either of these places, is greatly prejudicial to the dispersing of our Commodities; first, because if the Chapmen can have of their own, or any others nearer hand, they will never travel so far, and leave their Families and Callings, to obtain Goods. Secondly, because those that come to <hi>Dort,</hi> most are Grossiers, who also make much Cloth, and will endeavour to make use of our Manufactures to put off their own: All these in<g ref="char:EOLhyphen"/>conveniences attend them for <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imaginary Priviledges to save a little Excise to their Factors, with some other so inconsiderable ad<g ref="char:EOLhyphen"/>vantages, that they are not worthy to be put into the Balance, with the advantage of convenient places for vending their Merchandize. Thirdly, By their being at such a distance from the heart of the Countrey, they can never pry into, and discover what the Coun<g ref="char:EOLhyphen"/>trey most wants, that they may give advice for a sutable supply to be timely brought unto them.</p>
+            <p n="13">XIII. The present condition of this Company is a great discou<g ref="char:EOLhyphen"/>ragement to any Merchant to joyn with them, being indebted for a very great summe of monies, Which they <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave at Interest.
+<pb n="7" facs="tcp:172337:4"/>The payment of the very Interest, and other daily charges for the support of the government, do's put a great charge upon the Manufactures; how much more must it be for the raising monies to pay the capital summe owing; old men that made the debts, and got estates by it; have most left off trading, and pay no<g ref="char:EOLhyphen"/>thing to dischage this debt; and those they now invite in upon paying down one hundred pounds, may no sooner be made a bro<g ref="char:EOLhyphen"/>ther; but may be arrested for the paying of their Company debts, and be left by them to the mercy of the Creditors as a kind of re<g ref="char:EOLhyphen"/>venge upon them.</p>
+            <p n="14">XIV. The small number of the trading-members of the said Company, is humbly offered as a strong Argument against con<g ref="char:EOLhyphen"/>fining so general and great a Trade into so few hands, who may well be supposed not to have stocks enough to manage the whole Manufactures of this Kingdom; for when they traded with more Members who had great sums at Interest, and stretched their credit by Exchange and otherwise to the uttermost, (though to the ruine of many, yet then the free-traders shipped from this Port of <hi>London</hi> as much as the said Merchant-adventurers reckoning all sorts of goods; besides what was shipped by free-traders at <hi>Exon. Colchester</hi> and other Ports: where the Company exported little or nothing; — We could enumerate many exorbitant pra<g ref="char:EOLhyphen"/>ctises of these Monopolizers towards his Majesties Subjects by seizing on their goods, by taking their goods out of Ships, and detaining them at pleasure; yea, have refused such as desired to come in to them, with many other tyrannical courses, both here and abroad; to their fellow-subjects and to strangers also, upon whom they Impose their termes, and make their wills binding, as though it were the duty of Chapmen to pay and pray too; which causeth that the generality of the Dutch shop-keepers do hate them; and chuse rather to take pains to make Cloth, than to be so proudly imposed on; But we are not willing to ravel into the manifold oppressions of this Company, they being so notori<g ref="char:EOLhyphen"/>ously known, that men do not wonder they have no better suc<g ref="char:EOLhyphen"/>cesse; it falling out, at least to many, according to the Proverb, <hi>All covet, all lose.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
